@@ -1,3 +1,5 @@
 where is branch3 in log graph
 
 let me join the master with branch 1, 2
+
+now I'm in the master branch and only me joined master so far, waiting my friends 1 and 2
