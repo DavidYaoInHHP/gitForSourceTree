@@ -1,1 +1,3 @@
 where is branch3 in log graph
+
+let me join the master with branch 1, 2
