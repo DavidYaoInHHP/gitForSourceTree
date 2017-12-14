@@ -4,5 +4,6 @@ line 1
 
 now I'm gonna merge this to master 
 
+alright! merge process complete
 =-=-=-=-=-=     end    =-=-=-=-=-=
 
